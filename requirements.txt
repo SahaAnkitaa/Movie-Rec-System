@@ -1,0 +1,13 @@
+Flask
+Flask-SQLAlchemy
+Flask-Mail
+Flask-MySQLdb
+pandas
+matplotlib
+requests
+pytz
+gunicorn
+numpy
+scikit-learn
+gdown
+pickle-mixin
