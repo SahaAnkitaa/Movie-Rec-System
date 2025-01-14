@@ -2,7 +2,7 @@ Flask
 Flask-SQLAlchemy
 Flask-Mail
 Flask-MySQLdb
-pandas
+pandas==1.5.3
 matplotlib
 requests
 pytz
