@@ -13,3 +13,4 @@ beautifulsoup4==4.12.2
 jupyter==1.1.1
 gdown
 pickle-mixin
+gunicorn
